@@ -1,1 +1,1 @@
-CMD ["bash", "start"]
+CMD start_script.sh
