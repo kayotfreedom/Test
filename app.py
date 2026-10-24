@@ -1,1 +1,2 @@
-print("СТФРТ")
+while True:
+    print("СТФРТ")
